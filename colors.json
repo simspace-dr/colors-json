@@ -3,7 +3,7 @@
     "base": {
       "white": { "value": "#fff" },
       "black": { "value": "#000" },
-      "gray": {
+      "TEAL": {
         "10": { "value": "#f5f7f8" },
         "20": { "value": "#e8eced" },
         "30": { "value": "#d5d9db" },
